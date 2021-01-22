@@ -20,9 +20,6 @@
     <image:image>
       <image:loc>http://cana7167.github.io/images/unnamed.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/sky.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://cana7167.github.io/storyboard.html</loc>
@@ -40,9 +37,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cana7167.github.io/images/final%203-crop-u854.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/sky.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -65,9 +59,6 @@
     <image:image>
       <image:loc>http://cana7167.github.io/images/23!.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/sky.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://cana7167.github.io/video.html</loc>
@@ -76,9 +67,6 @@
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/sky.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
