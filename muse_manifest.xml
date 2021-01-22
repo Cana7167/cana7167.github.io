@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611322096244">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611322285252">
   <folder name="assets">
     <file name="1s.png" crc="3962247519" seo="true" mt="1611314843000"/>
   </folder>
@@ -160,7 +160,7 @@
   <file name="character.html" crc="416715203" seo="true" mt="1611317813003" redirect="true"/>
   <file name="video.html" crc="4174958074" seo="true" mt="1611317826103" redirect="true"/>
   <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
-  <file name="illustration.html" crc="4095259948" seo="true" mt="1611322063199" redirect="true"/>
+  <file name="illustration.html" crc="4203842597" seo="true" mt="1611322279743" redirect="true"/>
   <file name="poster.html" crc="4141166433" seo="true" mt="1611317779705" redirect="true"/>
   <file name="未命名-9.html" crc="337344630" seo="true" mt="1611319467251" redirect="true"/>
   <file name="影森滿.html" crc="35651314" seo="true" mt="1611319506286" redirect="true"/>
