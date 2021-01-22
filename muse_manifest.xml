@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611198740038">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611310915495">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-__.css" crc="518568739" ref="storyboard:video:index:character"/>
-    <file name="storyboard.css" crc="404464522" ref="storyboard"/>
-    <file name="video.css" crc="442767086" ref="video"/>
-    <file name="index.css" crc="63175107" ref="index"/>
-    <file name="character.css" crc="269431135" ref="character"/>
+    <file name="master_a-__.css" crc="518568739" ref="index:character:video:storyboard"/>
+    <file name="index.css" crc="141397375" ref="index"/>
+    <file name="character.css" crc="258897725" ref="character"/>
+    <file name="video.css" crc="4054003660" ref="video"/>
+    <file name="storyboard.css" crc="224835094" ref="storyboard"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:storyboard:character:video"/>
@@ -18,9 +18,9 @@
   <folder name="images">
     <file name="233.jpg" crc="4006466159" seo="true" ref="index:storyboard:character:video">
       <caption webpage="index" alt=""/>
+      <caption webpage="storyboard" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="character" alt=""/>
-      <caption webpage="storyboard" alt=""/>
     </file>
     <file name="u234-4.png" crc="261589367" ref="index:storyboard:character:video"/>
     <file name="u702-4.png" crc="3843784271" ref="index:storyboard:character:video"/>
@@ -60,8 +60,8 @@
       <caption webpage="character" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="469849126" seo="true" mt="1611159546714" redirect="true"/>
-  <file name="storyboard.html" crc="3848353531" seo="true" mt="1611159546714" redirect="true"/>
-  <file name="character.html" crc="389796660" seo="true" mt="1611159546714" redirect="true"/>
-  <file name="video.html" crc="448674345" seo="true" mt="1611159546714" redirect="true"/>
+  <file name="index.html" crc="4116786840" seo="true" mt="1611310876150" redirect="true"/>
+  <file name="storyboard.html" crc="425954126" seo="true" mt="1611310876150" redirect="true"/>
+  <file name="character.html" crc="240853064" seo="true" mt="1611310876150" redirect="true"/>
+  <file name="video.html" crc="94483562" seo="true" mt="1611310876150" redirect="true"/>
 </manifest>
