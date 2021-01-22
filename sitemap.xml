@@ -22,6 +22,60 @@
     </image:image>
   </url>
   <url>
+    <loc>http://cana7167.github.io/video.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/miku.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/xj04cj84au3dj.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/demon-dance-tokyo.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/demon%20dance%20tokyo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/retro.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/asdffgnhk.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/sky1.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/sky.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/%E5%BD%B1%E6%A3%AE%E6%BB%BF.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/%E5%BD%B1%E6%A3%AE3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://cana7167.github.io/animation.html</loc>
     <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -82,36 +136,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://cana7167.github.io/video.html</loc>
-    <lastmod>2021-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://cana7167.github.io/poster.html</loc>
-    <lastmod>2021-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/%E6%B5%B7%E5%A0%B1%20%E4%BA%8C%E7%89%88cana.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/twitter-emblem%20(2).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/unnamed.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://cana7167.github.io/illustration.html</loc>
     <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
@@ -141,7 +165,28 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://cana7167.github.io/images/2.jpg</image:loc>
+      <image:loc>http://cana7167.github.io/images/2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/poster.html</loc>
+    <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/%E6%B5%B7%E5%A0%B1%20%E4%BA%8C%E7%89%88cana.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/twitter-emblem%20(2).jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/unnamed.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -151,53 +196,44 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://cana7167.github.io/%E5%BD%B1%E6%A3%AE%E6%BB%BF.html</loc>
+    <loc>http://cana7167.github.io/assets/%E5%BD%B1%E6%A3%AE3.png</loc>
     <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/%E5%BD%B1%E6%A3%AE3.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://cana7167.github.io/sky1.html</loc>
-    <lastmod>2021-01-22</lastmod>
+    <loc>http://cana7167.github.io/assets/demon-dance-tokyo.png</loc>
+    <lastmod>2020-02-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/sky.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://cana7167.github.io/miku.html</loc>
+    <loc>http://cana7167.github.io/assets/sky.png</loc>
     <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/xj04cj84au3dj.jpg</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://cana7167.github.io/demon-dance-tokyo.html</loc>
-    <lastmod>2021-01-22</lastmod>
+    <loc>http://cana7167.github.io/assets/2ddddddddsfsrtethgf.png</loc>
+    <lastmod>2020-02-05</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/demon%20dance%20tokyo.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://cana7167.github.io/retro.html</loc>
-    <lastmod>2021-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/asdffgnhk.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://cana7167.github.io/assets/1s.png</loc>
     <lastmod>2021-01-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/assets/xj04cj84au3dj.png</loc>
+    <lastmod>2020-01-30</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://cana7167.github.io/assets/asdffgnhk.png</loc>
+    <lastmod>2020-08-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
