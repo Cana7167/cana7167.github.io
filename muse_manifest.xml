@@ -1,55 +1,64 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611317338077">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611317609993">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="4048664489" ref="index"/>
+    <file name="master_cana-__.css" crc="55201651" ref="index"/>
     <file name="character.css" crc="3926545926" ref="character"/>
-    <file name="video.css" crc="3853078021" ref="video"/>
-    <file name="storyboard.css" crc="447535585" ref="storyboard"/>
+    <file name="poster.css" crc="12938691" ref="poster"/>
+    <file name="video.css" crc="178726333" ref="video"/>
+    <file name="animation.css" crc="4048664489" ref="animation"/>
     <file name="illustration.css" crc="4074146731" ref="illustration"/>
+    <file name="storyboard.css" crc="447535585" ref="storyboard"/>
+    <file name="index.css" crc="86119871" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:storyboard:character:video:illustration"/>
-    <file name="museutils.js" crc="4216313831" ref="index:storyboard:character:video:illustration"/>
-    <file name="whatinput.js" crc="86476730" ref="index:storyboard:character:video:illustration"/>
-    <file name="museconfig.js" crc="474374037" ref="index:storyboard:character:video:illustration"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:storyboard:character:video:illustration"/>
-    <file name="require.js" crc="3951022091" ref="index:storyboard:character:video:illustration"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="animation:storyboard:character:video:index:illustration:poster"/>
+    <file name="museutils.js" crc="4216313831" ref="animation:storyboard:character:video:index:illustration:poster"/>
+    <file name="whatinput.js" crc="86476730" ref="animation:storyboard:character:video:index:illustration:poster"/>
+    <file name="museconfig.js" crc="474374037" ref="animation:storyboard:character:video:index:illustration:poster"/>
+    <file name="jquery.watch.js" crc="460461809" ref="animation:storyboard:character:video:index:illustration:poster"/>
+    <file name="require.js" crc="3951022091" ref="animation:storyboard:character:video:index:illustration:poster"/>
   </folder>
   <folder name="images">
-    <file name="233.jpg" crc="4006466159" seo="true" ref="storyboard:character:video:index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="storyboard" alt=""/>
+    <file name="233.jpg" crc="4006466159" seo="true" ref="animation:storyboard:character:video:poster">
       <caption webpage="video" alt=""/>
+      <caption webpage="storyboard" alt=""/>
       <caption webpage="animation" alt=""/>
       <caption webpage="animation" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
       <caption webpage="character" alt=""/>
-      <caption webpage="首頁" alt=""/>
     </file>
-    <file name="海報 二版cana.jpg" crc="312913053" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="首頁" alt=""/>
+    <file name="u1048-4.png" crc="3843784271" ref="animation"/>
+    <file name="u1399-4.png" crc="3843784271" ref="animation"/>
+    <file name="u1047-4.png" crc="261589367" ref="animation"/>
+    <file name="u1049-4.png" crc="58343514" ref="animation"/>
+    <file name="u1050-4-a.png" crc="13515443" ref="animation"/>
+    <file name="u1398-4.png" crc="261589367" ref="animation"/>
+    <file name="u1400-4.png" crc="58343514" ref="animation"/>
+    <file name="u1401-4-a.png" crc="13515443" ref="animation"/>
+    <file name="海報 二版cana.jpg" crc="312913053" seo="true" ref="animation:poster">
+      <caption webpage="poster" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="twitter-emblem (2).jpg" crc="4001517988" seo="true" ref="index">
+    <file name="twitter-emblem (2).jpg" crc="4001517988" seo="true" ref="animation:index:poster">
       <caption webpage="index" alt=""/>
-      <caption webpage="首頁" alt=""/>
+      <caption webpage="poster" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg" crc="118246463" seo="true" ref="index">
+    <file name="d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg" crc="118246463" seo="true" ref="animation:index:poster">
       <caption webpage="index" alt=""/>
-      <caption webpage="首頁" alt=""/>
+      <caption webpage="poster" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="unnamed.jpg" crc="4100402287" seo="true" ref="index">
+    <file name="unnamed.jpg" crc="4100402287" seo="true" ref="animation:index:poster">
       <caption webpage="index" alt=""/>
-      <caption webpage="首頁" alt=""/>
+      <caption webpage="poster" alt=""/>
       <caption webpage="animation" alt=""/>
     </file>
-    <file name="u1047-4.png" crc="261589367" ref="index"/>
-    <file name="u1048-4.png" crc="3843784271" ref="index"/>
-    <file name="u1049-4.png" crc="58343514" ref="index"/>
-    <file name="u1050-4-a.png" crc="13515443" ref="index"/>
+    <file name="u1122-4-a.png" crc="261589367" ref="storyboard"/>
+    <file name="u1123-4.png" crc="3843784271" ref="storyboard"/>
+    <file name="u1124-4.png" crc="58343514" ref="storyboard"/>
+    <file name="u1125-4.png" crc="13515443" ref="storyboard"/>
     <file name="final 1.jpg" crc="194796613" seo="true" ref="storyboard">
       <caption webpage="storyboard" alt=""/>
     </file>
@@ -59,9 +68,13 @@
     <file name="final 3-crop-u854.jpg" crc="277323404" seo="true" ref="storyboard">
       <caption webpage="storyboard" alt=""/>
     </file>
+    <file name="u1144-4.png" crc="13515443" ref="character"/>
     <file name="貼上的影像 1313x728.jpg" crc="3766941376" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
+    <file name="u1141-4.png" crc="261589367" ref="character"/>
+    <file name="u1142-4-a.png" crc="3843784271" ref="character"/>
+    <file name="u1143-4.png" crc="58343514" ref="character"/>
     <file name="插圖3.jpg" crc="4171744139" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
@@ -71,26 +84,32 @@
     <file name="23!.jpg" crc="3763739414" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
-    <file name="u1399-4.png" crc="3843784271" ref="index"/>
-    <file name="u1398-4.png" crc="261589367" ref="index"/>
-    <file name="u1400-4.png" crc="58343514" ref="index"/>
-    <file name="u1401-4-a.png" crc="13515443" ref="index"/>
-    <file name="u1122-4-a.png" crc="261589367" ref="storyboard"/>
-    <file name="u1123-4.png" crc="3843784271" ref="storyboard"/>
-    <file name="u1124-4.png" crc="58343514" ref="storyboard"/>
-    <file name="u1125-4.png" crc="13515443" ref="storyboard"/>
-    <file name="u1144-4.png" crc="13515443" ref="character"/>
-    <file name="u1141-4.png" crc="261589367" ref="character"/>
-    <file name="u1142-4-a.png" crc="3843784271" ref="character"/>
-    <file name="u1143-4.png" crc="58343514" ref="character"/>
     <file name="u1160-4.png" crc="261589367" ref="video"/>
     <file name="u1161-4.png" crc="3843784271" ref="video"/>
     <file name="u1162-4-a.png" crc="58343514" ref="video"/>
     <file name="u1163-4.png" crc="13515443" ref="video"/>
+    <file name="簽名.png" crc="3959536891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1319-4.png" crc="3858701615" ref="index"/>
+    <file name="u1225-4.png" crc="4076980987" ref="index"/>
+    <file name="1s.jpg" crc="4013700283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1619-4.png" crc="3843784271" ref="poster"/>
+    <file name="u1625-4.png" crc="3843784271" ref="poster"/>
+    <file name="u1618-4.png" crc="261589367" ref="poster"/>
+    <file name="u1620-4.png" crc="58343514" ref="poster"/>
+    <file name="u1621-4.png" crc="13515443" ref="poster"/>
+    <file name="u1624-4.png" crc="261589367" ref="poster"/>
+    <file name="u1626-4.png" crc="58343514" ref="poster"/>
+    <file name="u1627-4.png" crc="13515443" ref="poster"/>
   </folder>
-  <file name="index.html" crc="199090879" seo="true" mt="1611317331224" redirect="true"/>
-  <file name="storyboard.html" crc="276691054" seo="true" mt="1611317331222" redirect="true"/>
-  <file name="character.html" crc="211045304" seo="true" mt="1611317331220" redirect="true"/>
-  <file name="video.html" crc="4248075425" seo="true" mt="1611317331220" redirect="true"/>
-  <file name="illustration.html" crc="506604506" seo="true" mt="1611316985301" redirect="true"/>
+  <file name="animation.html" crc="4208588550" seo="true" mt="1611317204362" redirect="true"/>
+  <file name="storyboard.html" crc="4181312117" seo="true" mt="1611317204362" redirect="true"/>
+  <file name="character.html" crc="45992343" seo="true" mt="1611317204363" redirect="true"/>
+  <file name="video.html" crc="4059000987" seo="true" mt="1611317204364" redirect="true"/>
+  <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
+  <file name="illustration.html" crc="3798885836" seo="true" mt="1611316985301" redirect="true"/>
+  <file name="poster.html" crc="4024682340" seo="true" mt="1611317571813" redirect="true"/>
 </manifest>
