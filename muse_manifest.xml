@@ -1,0 +1,67 @@
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611198740038">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="master_a-__.css" crc="518568739" ref="storyboard:video:index:character"/>
+    <file name="storyboard.css" crc="404464522" ref="storyboard"/>
+    <file name="video.css" crc="442767086" ref="video"/>
+    <file name="index.css" crc="63175107" ref="index"/>
+    <file name="character.css" crc="269431135" ref="character"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:storyboard:character:video"/>
+    <file name="museutils.js" crc="4216313831" ref="index:storyboard:character:video"/>
+    <file name="whatinput.js" crc="86476730" ref="index:storyboard:character:video"/>
+    <file name="museconfig.js" crc="474374037" ref="index:storyboard:character:video"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:storyboard:character:video"/>
+    <file name="require.js" crc="3951022091" ref="index:storyboard:character:video"/>
+  </folder>
+  <folder name="images">
+    <file name="233.jpg" crc="4006466159" seo="true" ref="index:storyboard:character:video">
+      <caption webpage="index" alt=""/>
+      <caption webpage="video" alt=""/>
+      <caption webpage="character" alt=""/>
+      <caption webpage="storyboard" alt=""/>
+    </file>
+    <file name="u234-4.png" crc="261589367" ref="index:storyboard:character:video"/>
+    <file name="u702-4.png" crc="3843784271" ref="index:storyboard:character:video"/>
+    <file name="u705-4.png" crc="58343514" ref="index:storyboard:character:video"/>
+    <file name="u714-4.png" crc="13515443" ref="index:storyboard:character:video"/>
+    <file name="海報 二版cana.jpg" crc="312913053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="twitter-emblem (2).jpg" crc="4001517988" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg" crc="118246463" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="unnamed.jpg" crc="4100402287" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="final 1.jpg" crc="194796613" seo="true" ref="storyboard">
+      <caption webpage="storyboard" alt=""/>
+    </file>
+    <file name="final 2.jpg" crc="281794337" seo="true" ref="storyboard">
+      <caption webpage="storyboard" alt=""/>
+    </file>
+    <file name="final 3-crop-u854.jpg" crc="277323404" seo="true" ref="storyboard">
+      <caption webpage="storyboard" alt=""/>
+    </file>
+    <file name="貼上的影像 1313x728.jpg" crc="3766941376" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="插圖3.jpg" crc="4171744139" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="23.jpg" crc="18541619" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+    <file name="23!.jpg" crc="3763739414" seo="true" ref="character">
+      <caption webpage="character" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="469849126" seo="true" mt="1611159546714" redirect="true"/>
+  <file name="storyboard.html" crc="3848353531" seo="true" mt="1611159546714" redirect="true"/>
+  <file name="character.html" crc="389796660" seo="true" mt="1611159546714" redirect="true"/>
+  <file name="video.html" crc="448674345" seo="true" mt="1611159546714" redirect="true"/>
+</manifest>
