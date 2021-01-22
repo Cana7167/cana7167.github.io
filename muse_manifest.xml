@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611321021869">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611322096244">
   <folder name="assets">
     <file name="1s.png" crc="3962247519" seo="true" mt="1611314843000"/>
   </folder>
@@ -12,21 +12,22 @@
     <file name="illustration.css" crc="411007331" ref="illustration"/>
     <file name="storyboard.css" crc="447535585" ref="storyboard"/>
     <file name="index.css" crc="86119871" ref="index"/>
-    <file name="master_back-to-illu.css" crc="414581207" ref="2d:影森滿:未命名-9:sky1:miku:demon-dance-tokyo"/>
+    <file name="master_back-to-illu.css" crc="414581207" ref="2d:影森滿:未命名-9:sky1:miku:demon-dance-tokyo:retro"/>
     <file name="2d.css" crc="3967627438" ref="2d"/>
     <file name="___.css" crc="4086995852" ref="影森滿"/>
     <file name="___-9.css" crc="4002472068" ref="未命名-9"/>
     <file name="sky1.css" crc="71602116" ref="sky1"/>
     <file name="miku.css" crc="3919401244" ref="miku"/>
     <file name="demon-dance-tokyo.css" crc="3883924640" ref="demon-dance-tokyo"/>
+    <file name="retro.css" crc="4011830025" ref="retro"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
-    <file name="museutils.js" crc="4216313831" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
-    <file name="whatinput.js" crc="86476730" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
-    <file name="museconfig.js" crc="474374037" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
-    <file name="jquery.watch.js" crc="460461809" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
-    <file name="require.js" crc="3951022091" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
+    <file name="museutils.js" crc="4216313831" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
+    <file name="whatinput.js" crc="86476730" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
+    <file name="museconfig.js" crc="474374037" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
+    <file name="jquery.watch.js" crc="460461809" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
+    <file name="require.js" crc="3951022091" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
   </folder>
   <folder name="images">
     <file name="233.jpg" crc="4006466159" seo="true" ref="animation:storyboard:character:video:poster">
@@ -122,7 +123,7 @@
     <file name="1.jpg" crc="381196543" seo="true" ref="illustration">
       <caption webpage="illustration" alt=""/>
     </file>
-    <file name="u1750-4.png" crc="4022066538" ref="未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku"/>
+    <file name="u1750-4.png" crc="4022066538" ref="未命名-9:影森滿:sky1:2d:demon-dance-tokyo:miku:retro"/>
     <file name="影森3.jpg" crc="3807132223" seo="true" ref="影森滿">
       <caption webpage="影森滿" alt=""/>
     </file>
@@ -133,7 +134,6 @@
       <caption webpage="2d" alt=""/>
     </file>
     <file name="2193x193.png" crc="3835454086" seo="true" ref="illustration">
-      <caption webpage="illustration" alt=""/>
       <caption webpage="illustration" alt=""/>
     </file>
     <file name="demon dance tokyo-crop-u1973.jpg" crc="4168352586" seo="true" ref="illustration">
@@ -148,13 +148,19 @@
     <file name="xj04cj84au3dj.jpg" crc="237423945" seo="true" ref="miku">
       <caption webpage="miku" alt=""/>
     </file>
+    <file name="asdffgnhk-crop-u1977.jpg" crc="3803612408" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="asdffgnhk.jpg" crc="516491590" seo="true" ref="retro">
+      <caption webpage="retro" alt=""/>
+    </file>
   </folder>
   <file name="animation.html" crc="4208588550" seo="true" mt="1611317204362" redirect="true"/>
   <file name="storyboard.html" crc="4101619213" seo="true" mt="1611317797887" redirect="true"/>
   <file name="character.html" crc="416715203" seo="true" mt="1611317813003" redirect="true"/>
   <file name="video.html" crc="4174958074" seo="true" mt="1611317826103" redirect="true"/>
   <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
-  <file name="illustration.html" crc="431623152" seo="true" mt="1611320986949" redirect="true"/>
+  <file name="illustration.html" crc="4095259948" seo="true" mt="1611322063199" redirect="true"/>
   <file name="poster.html" crc="4141166433" seo="true" mt="1611317779705" redirect="true"/>
   <file name="未命名-9.html" crc="337344630" seo="true" mt="1611319467251" redirect="true"/>
   <file name="影森滿.html" crc="35651314" seo="true" mt="1611319506286" redirect="true"/>
@@ -162,4 +168,5 @@
   <file name="2d.html" crc="3979598910" seo="true" mt="1611319730829" redirect="true"/>
   <file name="demon-dance-tokyo.html" crc="19817105" seo="true" mt="1611320560627" redirect="true"/>
   <file name="miku.html" crc="4073410809" seo="true" mt="1611321015497" redirect="true"/>
+  <file name="retro.html" crc="255576720" seo="true" mt="1611322090792" redirect="true"/>
 </manifest>
