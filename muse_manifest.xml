@@ -1,4 +1,7 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611317832702">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611318396636">
+  <folder name="assets">
+    <file name="1s.png" crc="3962247519" seo="true" mt="1611314843000"/>
+  </folder>
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_cana-__.css" crc="55201651" ref="index"/>
@@ -6,7 +9,7 @@
     <file name="poster.css" crc="12938691" ref="poster"/>
     <file name="video.css" crc="178726333" ref="video"/>
     <file name="animation.css" crc="4048664489" ref="animation"/>
-    <file name="illustration.css" crc="4074146731" ref="illustration"/>
+    <file name="illustration.css" crc="456363647" ref="illustration"/>
     <file name="storyboard.css" crc="447535585" ref="storyboard"/>
     <file name="index.css" crc="86119871" ref="index"/>
   </folder>
@@ -110,6 +113,6 @@
   <file name="character.html" crc="416715203" seo="true" mt="1611317813003" redirect="true"/>
   <file name="video.html" crc="4174958074" seo="true" mt="1611317826103" redirect="true"/>
   <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
-  <file name="illustration.html" crc="3798885836" seo="true" mt="1611316985301" redirect="true"/>
+  <file name="illustration.html" crc="3959799256" seo="true" mt="1611318390347" redirect="true"/>
   <file name="poster.html" crc="4141166433" seo="true" mt="1611317779705" redirect="true"/>
 </manifest>
