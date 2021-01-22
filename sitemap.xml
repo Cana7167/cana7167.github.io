@@ -6,6 +6,12 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://cana7167.github.io/images/%E6%B5%B7%E5%A0%B1%20%E4%BA%8C%E7%89%88cana.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://cana7167.github.io/images/twitter-emblem%20(2).jpg</image:loc>
     </image:image>
     <image:image>
@@ -13,12 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://cana7167.github.io/images/unnamed.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/%E7%B0%BD%E5%90%8D.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/1s.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -74,26 +74,5 @@
     <lastmod>2021-01-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://cana7167.github.io/animation.html</loc>
-    <lastmod>2021-01-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/233.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/%E6%B5%B7%E5%A0%B1%20%E4%BA%8C%E7%89%88cana.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/twitter-emblem%20(2).jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://cana7167.github.io/images/unnamed.jpg</image:loc>
-    </image:image>
   </url>
 </urlset>
