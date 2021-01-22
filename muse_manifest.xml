@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611318396636">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611319815910">
   <folder name="assets">
     <file name="1s.png" crc="3962247519" seo="true" mt="1611314843000"/>
   </folder>
@@ -9,17 +9,22 @@
     <file name="poster.css" crc="12938691" ref="poster"/>
     <file name="video.css" crc="178726333" ref="video"/>
     <file name="animation.css" crc="4048664489" ref="animation"/>
-    <file name="illustration.css" crc="456363647" ref="illustration"/>
+    <file name="illustration.css" crc="145722748" ref="illustration"/>
     <file name="storyboard.css" crc="447535585" ref="storyboard"/>
     <file name="index.css" crc="86119871" ref="index"/>
+    <file name="master_back-to-illu.css" crc="414581207" ref="2d:影森滿:未命名-9:sky1"/>
+    <file name="2d.css" crc="3967627438" ref="2d"/>
+    <file name="___.css" crc="4086995852" ref="影森滿"/>
+    <file name="___-9.css" crc="4002472068" ref="未命名-9"/>
+    <file name="sky1.css" crc="71602116" ref="sky1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="animation:storyboard:character:video:index:illustration:poster"/>
-    <file name="museutils.js" crc="4216313831" ref="animation:storyboard:character:video:index:illustration:poster"/>
-    <file name="whatinput.js" crc="86476730" ref="animation:storyboard:character:video:index:illustration:poster"/>
-    <file name="museconfig.js" crc="474374037" ref="animation:storyboard:character:video:index:illustration:poster"/>
-    <file name="jquery.watch.js" crc="460461809" ref="animation:storyboard:character:video:index:illustration:poster"/>
-    <file name="require.js" crc="3951022091" ref="animation:storyboard:character:video:index:illustration:poster"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d"/>
+    <file name="museutils.js" crc="4216313831" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d"/>
+    <file name="whatinput.js" crc="86476730" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d"/>
+    <file name="museconfig.js" crc="474374037" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d"/>
+    <file name="jquery.watch.js" crc="460461809" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d"/>
+    <file name="require.js" crc="3951022091" ref="animation:storyboard:character:video:index:illustration:poster:未命名-9:影森滿:sky1:2d"/>
   </folder>
   <folder name="images">
     <file name="233.jpg" crc="4006466159" seo="true" ref="animation:storyboard:character:video:poster">
@@ -107,12 +112,37 @@
     <file name="u1624-4.png" crc="261589367" ref="poster"/>
     <file name="u1626-4.png" crc="58343514" ref="poster"/>
     <file name="u1627-4-a.png" crc="13515443" ref="poster"/>
+    <file name="u1828-4.png" crc="309168300" ref="illustration"/>
+    <file name="u1918-4.png" crc="4281532252" ref="illustration"/>
+    <file name="影森3193x193.jpg" crc="396342568" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="1.jpg" crc="381196543" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="2193x193.jpg" crc="4279706609" seo="true" ref="illustration">
+      <caption webpage="illustration" alt=""/>
+    </file>
+    <file name="u1750-4.png" crc="4022066538" ref="未命名-9:影森滿:sky1:2d"/>
+    <file name="影森3.jpg" crc="3807132223" seo="true" ref="影森滿">
+      <caption webpage="影森滿" alt=""/>
+    </file>
+    <file name="sky.jpg" crc="4115214117" seo="true" ref="sky1">
+      <caption webpage="sky1" alt=""/>
+    </file>
+    <file name="2.jpg" crc="487497744" seo="true" ref="2d">
+      <caption webpage="2d" alt=""/>
+    </file>
   </folder>
   <file name="animation.html" crc="4208588550" seo="true" mt="1611317204362" redirect="true"/>
   <file name="storyboard.html" crc="4101619213" seo="true" mt="1611317797887" redirect="true"/>
   <file name="character.html" crc="416715203" seo="true" mt="1611317813003" redirect="true"/>
   <file name="video.html" crc="4174958074" seo="true" mt="1611317826103" redirect="true"/>
   <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
-  <file name="illustration.html" crc="3959799256" seo="true" mt="1611318390347" redirect="true"/>
+  <file name="illustration.html" crc="3860465601" seo="true" mt="1611319802473" redirect="true"/>
   <file name="poster.html" crc="4141166433" seo="true" mt="1611317779705" redirect="true"/>
+  <file name="未命名-9.html" crc="337344630" seo="true" mt="1611319467251" redirect="true"/>
+  <file name="影森滿.html" crc="35651314" seo="true" mt="1611319506286" redirect="true"/>
+  <file name="sky1.html" crc="3906923263" seo="true" mt="1611319658513" redirect="true"/>
+  <file name="2d.html" crc="3979598910" seo="true" mt="1611319730829" redirect="true"/>
 </manifest>
