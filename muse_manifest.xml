@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611322653691">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611325658078">
   <folder name="assets">
     <file name="1s.png" crc="3962247519" seo="true" mt="1611314843000"/>
     <file name="asdffgnhk.png" crc="3855918746" seo="true" mt="1596655297000"/>
@@ -11,12 +11,12 @@
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_cana-__.css" crc="55201651" ref="index"/>
-    <file name="character.css" crc="3926545926" ref="character"/>
-    <file name="poster.css" crc="12938691" ref="poster"/>
-    <file name="video.css" crc="178726333" ref="video"/>
+    <file name="character.css" crc="4135134587" ref="character"/>
+    <file name="poster.css" crc="114013134" ref="poster"/>
+    <file name="video.css" crc="96871673" ref="video"/>
     <file name="animation.css" crc="4048664489" ref="animation"/>
-    <file name="illustration.css" crc="411007331" ref="illustration"/>
-    <file name="storyboard.css" crc="447535585" ref="storyboard"/>
+    <file name="illustration.css" crc="297703887" ref="illustration"/>
+    <file name="storyboard.css" crc="237447064" ref="storyboard"/>
     <file name="index.css" crc="86119871" ref="index"/>
     <file name="master_back-to-illu.css" crc="414581207" ref="2d:影森滿:未命名-9:sky1:miku:demon-dance-tokyo:retro"/>
     <file name="2d.css" crc="64272120" ref="2d"/>
@@ -37,12 +37,12 @@
   </folder>
   <folder name="images">
     <file name="233.jpg" crc="4006466159" seo="true" ref="animation:storyboard:character:video:poster">
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
-      <caption webpage="video" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
       <caption webpage="storyboard" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="video" alt=""/>
       <caption webpage="character" alt=""/>
     </file>
     <file name="u1048-4.png" crc="3843784271" ref="animation"/>
@@ -166,14 +166,18 @@
     <file name="u2165-4.png" crc="4070567228" ref="demon-dance-tokyo"/>
     <file name="u2160-4.png" crc="4070567228" ref="miku"/>
     <file name="u2155-4.png" crc="4070567228" ref="retro"/>
+    <file name="u2185-4.png" crc="4281532252" ref="storyboard"/>
+    <file name="u2191-4.png" crc="4281532252" ref="character"/>
+    <file name="u2194-4.png" crc="4281532252" ref="video"/>
+    <file name="u2188-4.png" crc="4281532252" ref="poster"/>
   </folder>
   <file name="animation.html" crc="4208588550" seo="true" mt="1611317204362" redirect="true"/>
-  <file name="storyboard.html" crc="4101619213" seo="true" mt="1611317797887" redirect="true"/>
-  <file name="character.html" crc="416715203" seo="true" mt="1611317813003" redirect="true"/>
-  <file name="video.html" crc="4174958074" seo="true" mt="1611317826103" redirect="true"/>
+  <file name="storyboard.html" crc="271779330" seo="true" mt="1611325617752" redirect="true"/>
+  <file name="character.html" crc="3994286758" seo="true" mt="1611325636250" redirect="true"/>
+  <file name="video.html" crc="3989367289" seo="true" mt="1611325647438" redirect="true"/>
   <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
-  <file name="illustration.html" crc="4203842597" seo="true" mt="1611322279743" redirect="true"/>
-  <file name="poster.html" crc="4141166433" seo="true" mt="1611317779705" redirect="true"/>
+  <file name="illustration.html" crc="4218070159" seo="true" mt="1611325586436" redirect="true"/>
+  <file name="poster.html" crc="3862269996" seo="true" mt="1611325623615" redirect="true"/>
   <file name="未命名-9.html" crc="337344630" seo="true" mt="1611319467251" redirect="true"/>
   <file name="影森滿.html" crc="4198095877" seo="true" mt="1611322648552" redirect="true"/>
   <file name="sky1.html" crc="3949965339" seo="true" mt="1611322628594" redirect="true"/>
