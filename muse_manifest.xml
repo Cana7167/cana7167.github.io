@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611317609993">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611317832702">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_cana-__.css" crc="55201651" ref="index"/>
@@ -20,12 +20,12 @@
   </folder>
   <folder name="images">
     <file name="233.jpg" crc="4006466159" seo="true" ref="animation:storyboard:character:video:poster">
+      <caption webpage="poster" alt=""/>
+      <caption webpage="poster" alt=""/>
       <caption webpage="video" alt=""/>
+      <caption webpage="animation" alt=""/>
+      <caption webpage="animation" alt=""/>
       <caption webpage="storyboard" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="animation" alt=""/>
-      <caption webpage="poster" alt=""/>
-      <caption webpage="poster" alt=""/>
       <caption webpage="character" alt=""/>
     </file>
     <file name="u1048-4.png" crc="3843784271" ref="animation"/>
@@ -103,13 +103,13 @@
     <file name="u1621-4.png" crc="13515443" ref="poster"/>
     <file name="u1624-4.png" crc="261589367" ref="poster"/>
     <file name="u1626-4.png" crc="58343514" ref="poster"/>
-    <file name="u1627-4.png" crc="13515443" ref="poster"/>
+    <file name="u1627-4-a.png" crc="13515443" ref="poster"/>
   </folder>
   <file name="animation.html" crc="4208588550" seo="true" mt="1611317204362" redirect="true"/>
-  <file name="storyboard.html" crc="4181312117" seo="true" mt="1611317204362" redirect="true"/>
-  <file name="character.html" crc="45992343" seo="true" mt="1611317204363" redirect="true"/>
-  <file name="video.html" crc="4059000987" seo="true" mt="1611317204364" redirect="true"/>
+  <file name="storyboard.html" crc="4101619213" seo="true" mt="1611317797887" redirect="true"/>
+  <file name="character.html" crc="416715203" seo="true" mt="1611317813003" redirect="true"/>
+  <file name="video.html" crc="4174958074" seo="true" mt="1611317826103" redirect="true"/>
   <file name="index.html" crc="150040816" seo="true" mt="1611317586919" redirect="true"/>
   <file name="illustration.html" crc="3798885836" seo="true" mt="1611316985301" redirect="true"/>
-  <file name="poster.html" crc="4024682340" seo="true" mt="1611317571813" redirect="true"/>
+  <file name="poster.html" crc="4141166433" seo="true" mt="1611317779705" redirect="true"/>
 </manifest>
