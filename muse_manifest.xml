@@ -1,37 +1,45 @@
-<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611313530036">
+<manifest alg="2" build="2017.0.4.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="cana7167.github.io" resolutions="1x" timestamp="1611316347035">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="52889785" ref="index"/>
+    <file name="index.css" crc="86119871" ref="index"/>
     <file name="character.css" crc="3926545926" ref="character"/>
     <file name="video.css" crc="178726333" ref="video"/>
     <file name="storyboard.css" crc="447535585" ref="storyboard"/>
+    <file name="master_cana-__.css" crc="55201651" ref="index"/>
+    <file name="__.css" crc="52889785" ref="首頁"/>
+    <file name="illustration.css" crc="4074146731" ref="illustration"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:storyboard:character:video"/>
-    <file name="museutils.js" crc="4216313831" ref="index:storyboard:character:video"/>
-    <file name="whatinput.js" crc="86476730" ref="index:storyboard:character:video"/>
-    <file name="museconfig.js" crc="474374037" ref="index:storyboard:character:video"/>
-    <file name="jquery.watch.js" crc="460461809" ref="index:storyboard:character:video"/>
-    <file name="require.js" crc="3951022091" ref="index:storyboard:character:video"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:storyboard:character:video:首頁:illustration"/>
+    <file name="museutils.js" crc="4216313831" ref="index:storyboard:character:video:首頁:illustration"/>
+    <file name="whatinput.js" crc="86476730" ref="index:storyboard:character:video:首頁:illustration"/>
+    <file name="museconfig.js" crc="474374037" ref="index:storyboard:character:video:首頁:illustration"/>
+    <file name="jquery.watch.js" crc="460461809" ref="index:storyboard:character:video:首頁:illustration"/>
+    <file name="require.js" crc="3951022091" ref="index:storyboard:character:video:首頁:illustration"/>
   </folder>
   <folder name="images">
-    <file name="233.jpg" crc="4006466159" seo="true" ref="index:storyboard:character:video">
+    <file name="233.jpg" crc="4006466159" seo="true" ref="storyboard:character:video:首頁">
       <caption webpage="index" alt=""/>
       <caption webpage="storyboard" alt=""/>
       <caption webpage="video" alt=""/>
       <caption webpage="character" alt=""/>
+      <caption webpage="首頁" alt=""/>
     </file>
-    <file name="海報 二版cana.jpg" crc="312913053" seo="true" ref="index">
+    <file name="海報 二版cana.jpg" crc="312913053" seo="true" ref="首頁">
       <caption webpage="index" alt=""/>
+      <caption webpage="首頁" alt=""/>
     </file>
-    <file name="twitter-emblem (2).jpg" crc="4001517988" seo="true" ref="index">
+    <file name="twitter-emblem (2).jpg" crc="4001517988" seo="true" ref="index:首頁">
       <caption webpage="index" alt=""/>
+      <caption webpage="首頁" alt=""/>
     </file>
-    <file name="d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg" crc="118246463" seo="true" ref="index">
+    <file name="d8qubmm-056b8649-36ba-4662-8c4f-179054f65bde.jpg" crc="118246463" seo="true" ref="index:首頁">
       <caption webpage="index" alt=""/>
+      <caption webpage="首頁" alt=""/>
     </file>
-    <file name="unnamed.jpg" crc="4100402287" seo="true" ref="index">
+    <file name="unnamed.jpg" crc="4100402287" seo="true" ref="index:首頁">
       <caption webpage="index" alt=""/>
+      <caption webpage="首頁" alt=""/>
     </file>
     <file name="final 1.jpg" crc="194796613" seo="true" ref="storyboard">
       <caption webpage="storyboard" alt=""/>
@@ -54,10 +62,10 @@
     <file name="23!.jpg" crc="3763739414" seo="true" ref="character">
       <caption webpage="character" alt=""/>
     </file>
-    <file name="u1047-4.png" crc="261589367" ref="index"/>
-    <file name="u1048-4.png" crc="3843784271" ref="index"/>
-    <file name="u1049-4.png" crc="58343514" ref="index"/>
-    <file name="u1050-4-a.png" crc="13515443" ref="index"/>
+    <file name="u1047-4.png" crc="261589367" ref="首頁"/>
+    <file name="u1048-4.png" crc="3843784271" ref="首頁"/>
+    <file name="u1049-4.png" crc="58343514" ref="首頁"/>
+    <file name="u1050-4-a.png" crc="13515443" ref="首頁"/>
     <file name="u1122-4-a.png" crc="261589367" ref="storyboard"/>
     <file name="u1123-4.png" crc="3843784271" ref="storyboard"/>
     <file name="u1124-4.png" crc="58343514" ref="storyboard"/>
@@ -70,9 +78,19 @@
     <file name="u1161-4.png" crc="3843784271" ref="video"/>
     <file name="u1162-4-a.png" crc="58343514" ref="video"/>
     <file name="u1163-4.png" crc="13515443" ref="video"/>
+    <file name="u1225-4.png" crc="4076980987" ref="index"/>
+    <file name="1s.jpg" crc="4013700283" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="簽名.png" crc="3959536891" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1319-4.png" crc="3858701615" ref="index"/>
   </folder>
-  <file name="index.html" crc="3909230650" seo="true" mt="1611312264506" redirect="true"/>
-  <file name="storyboard.html" crc="276691054" seo="true" mt="1611312264506" redirect="true"/>
-  <file name="character.html" crc="211045304" seo="true" mt="1611312264506" redirect="true"/>
-  <file name="video.html" crc="4228668299" seo="true" mt="1611312264506" redirect="true"/>
+  <file name="index.html" crc="482329394" seo="true" mt="1611316341963" redirect="true"/>
+  <file name="storyboard.html" crc="149959421" seo="true" mt="1611315212888" redirect="true"/>
+  <file name="character.html" crc="4101948080" seo="true" mt="1611315212891" redirect="true"/>
+  <file name="video.html" crc="119713067" seo="true" mt="1611315212887" redirect="true"/>
+  <file name="首頁.html" crc="400402873" seo="true" mt="1611315212891" redirect="true"/>
+  <file name="illustration.html" crc="506604506" seo="true" mt="1611316327590" redirect="true"/>
 </manifest>
